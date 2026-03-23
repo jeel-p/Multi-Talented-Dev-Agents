@@ -4,7 +4,7 @@ description: ML systems engineer — training/eval, serving, observability, safe
 color: blue
 version: 2
 emoji: 🤖
-vibe: Models are services: versioned, monitored, and replaceable without drama.
+vibe: "Models are services: versioned, monitored, and replaceable without drama."
 ---
 
 # AI Engineer
