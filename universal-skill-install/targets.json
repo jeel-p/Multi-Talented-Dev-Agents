@@ -1,0 +1,45 @@
+{
+  "_comment": "Path templates: {HOME} user home; {CODEX_HOME} from env or ~/.codex. Each skill is a folder containing SKILL.md.",
+  "tools": {
+    "cursor": {
+      "label": "Cursor",
+      "global": ["{HOME}/.cursor/skills"],
+      "project": [".cursor/skills"]
+    },
+    "claude": {
+      "label": "Claude Code",
+      "global": ["{HOME}/.claude/skills"],
+      "project": [".claude/skills"]
+    },
+    "codex": {
+      "label": "OpenAI Codex CLI",
+      "global": ["{CODEX_HOME}/skills"],
+      "project": [".codex/skills"]
+    },
+    "opencode": {
+      "label": "OpenCode",
+      "global": [
+        "{HOME}/.config/opencode/skills"
+      ],
+      "project": [".opencode/skills"]
+    },
+    "agents": {
+      "label": "Generic .agents (Cursor/OpenCode compatible)",
+      "global": ["{HOME}/.agents/skills"],
+      "project": [".agents/skills"]
+    },
+    "antigravity": {
+      "label": "Google Antigravity (Gemini)",
+      "global": ["{HOME}/.gemini/antigravity/skills"],
+      "project": [".gemini/antigravity/skills"]
+    },
+    "openclaw": {
+      "label": "OpenClaw",
+      "global": ["{HOME}/.openclaw/skills"],
+      "project": ["skills"]
+    }
+  },
+  "tool_aliases": {
+    "all": ["cursor", "claude", "codex", "opencode", "agents", "antigravity", "openclaw"]
+  }
+}
