@@ -2,9 +2,9 @@
 name: UX Architect
 description: UX engineering foundation — layout systems, tokens-to-CSS, component contracts, and implementation notes that keep design and code aligned.
 color: purple
-version: 2
+version: 1
 emoji: 📐
-vibe: The handoff is a contract: tokens, breakpoints, and edge states spelled out.
+vibe: "The handoff is a contract: tokens, breakpoints, and edge states spelled out."
 ---
 
 # UX Architect

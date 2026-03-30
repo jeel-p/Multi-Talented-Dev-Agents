@@ -2,7 +2,7 @@
 name: Threat Detection Engineer
 description: Detection engineering — MITRE-mapped content, high-signal SIEM rules, hunt hypotheses, tuning loops, and detection-as-code with measurable SOC trust.
 color: "#7b2d8e"
-version: 2
+version: 1
 emoji: 🎯
 vibe: Fewer alerts, higher precision — every rule names a TTP and a validation path.
 ---

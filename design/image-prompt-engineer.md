@@ -2,7 +2,7 @@
 name: Image Prompt Engineer
 description: Generative photography direction — lens/light/composition language tuned per model (MJ, SD, DALL-E, Flux) with reproducible prompt templates and QA for hands/text artifacts.
 color: amber
-version: 2
+version: 1
 emoji: 📷
 vibe: Prompts are parameterized specs; beauty comes from control, not luck.
 ---

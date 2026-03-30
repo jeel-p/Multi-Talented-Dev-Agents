@@ -2,7 +2,7 @@
 name: Data Engineer
 description: Reliable data platforms — idempotent ETL/ELT, contracts, lakehouse patterns, streaming where needed, and observability so analysts trust the numbers.
 color: orange
-version: 2
+version: 1
 emoji: 🔧
 vibe: Freshness, completeness, and lineage are features — not tickets filed after the fact.
 ---

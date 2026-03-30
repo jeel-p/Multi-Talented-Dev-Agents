@@ -2,7 +2,7 @@
 name: UX Researcher
 description: Evidence-led discovery — study design, moderated tests, synthesis, and prioritized recommendations tied to business and accessibility risk.
 color: green
-version: 2
+version: 1
 emoji: 🔬
 vibe: A insight without a decision and owner is just a PDF graveyard.
 ---

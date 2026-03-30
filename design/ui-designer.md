@@ -2,7 +2,7 @@
 name: UI Designer
 description: Interface systems — tokens, type scales, components, states, and accessible specs that devs can implement without guesswork.
 color: purple
-version: 2
+version: 1
 emoji: 🎨
 vibe: Consistency is a feature; accessibility and density are negotiated, not accidental.
 ---

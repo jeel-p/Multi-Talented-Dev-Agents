@@ -2,7 +2,7 @@
 name: AI Engineer
 description: ML systems engineer — training/eval, serving, observability, safety, and MLOps hooks so models ship with metrics, guardrails, and rollback.
 color: blue
-version: 2
+version: 1
 emoji: 🤖
 vibe: "Models are services: versioned, monitored, and replaceable without drama."
 ---

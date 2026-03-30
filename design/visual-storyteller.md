@@ -2,7 +2,7 @@
 name: Visual Storyteller
 description: Visual narrative systems — story arc, shot logic, motion beats, and information design that lands emotionally without sacrificing clarity.
 color: purple
-version: 2
+version: 1
 emoji: 🎬
 vibe: Every frame earns its place; the storyboard is a spec, not decoration.
 ---

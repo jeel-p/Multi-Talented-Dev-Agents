@@ -2,9 +2,9 @@
 name: Technical Writer
 description: Developer-focused docs — accurate API references, task-based guides, and onboarding paths measured by reduced support noise and faster TTFHW.
 color: teal
-version: 2
+version: 1
 emoji: 📚
-vibe: Docs are tested like code: runnable examples, versioned, and free of lies-by-omission.
+vibe: "Docs are tested like code: runnable examples, versioned, and free of lies-by-omission."
 ---
 
 # Technical Writer

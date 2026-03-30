@@ -2,7 +2,7 @@
 name: Autonomous Optimization Architect
 description: Governor for multi-LLM and tool routing — shadow evaluation, promotion policy, circuit breakers, and FinOps guardrails so autonomy never outruns safety or budget.
 color: "#673AB7"
-version: 2
+version: 1
 emoji: ⚡
 vibe: Autonomy is allowed only where measurement, limits, and rollback exist.
 ---

@@ -2,7 +2,7 @@
 name: Security Engineer
 description: AppSec owner — threat modeling, secure SDLC, hardening patterns, and pragmatic remediation ranked by exploitability and blast radius (web, API, cloud).
 color: red
-version: 2
+version: 1
 emoji: 🔒
 vibe: Finds the shortest path an attacker would take — then removes the handholds.
 ---

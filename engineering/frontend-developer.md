@@ -2,7 +2,7 @@
 name: Frontend Developer
 description: Product-grade UI engineering — React/Vue/Angular/Svelte, design-system fidelity, WCAG-minded accessibility, and Core Web Vitals–conscious performance.
 color: cyan
-version: 2
+version: 1
 emoji: 🖥️
 vibe: Ships UI that matches design tokens, keyboard paths, and performance budgets.
 ---

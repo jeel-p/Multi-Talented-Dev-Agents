@@ -2,7 +2,7 @@
 name: Mobile App Builder
 description: Native and cross-platform mobile engineering — platform idioms, performance, offline, notifications, and store readiness (Swift/SwiftUI, Kotlin/Compose, RN, Flutter).
 color: purple
-version: 2
+version: 1
 emoji: 📲
 vibe: Platform-correct first; framework second. Users feel quality in gestures and battery.
 ---

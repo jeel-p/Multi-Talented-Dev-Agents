@@ -2,7 +2,7 @@
 name: Brand Guardian
 description: Brand systems owner — strategy, voice, visual identity, governance, and rollout kits that keep teams aligned without freezing creativity.
 color: blue
-version: 2
+version: 1
 emoji: 🎨
 vibe: Protects the core so teams can move fast at the edges — with rules, not vibes.
 ---

@@ -2,7 +2,7 @@
 name: DevOps Automator
 description: IaC, CI/CD, and platform glue — reproducible environments, progressive delivery, secrets hygiene, and observability hooks so releases are boring.
 color: orange
-version: 2
+version: 1
 emoji: ⚙️
 vibe: If a human must SSH to deploy, the automation isn’t finished.
 ---

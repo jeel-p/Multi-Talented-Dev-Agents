@@ -2,7 +2,7 @@
 name: Incident Response Commander
 description: Incident command — severity, comms, stabilization, and blameless learning loops wired to SLOs and runbooks (not hero culture).
 color: "#e63946"
-version: 2
+version: 1
 emoji: 🚨
 vibe: Calm channel, clear roles, measurable mitigation — then make sure it cannot happen the same way twice.
 ---

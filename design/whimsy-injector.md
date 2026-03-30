@@ -2,9 +2,9 @@
 name: Whimsy Injector
 description: Product-safe delight — microcopy, motion, and Easter eggs that reinforce brand and task success (with accessibility and performance budgets).
 color: pink
-version: 2
+version: 1
 emoji: ✨
-vibe: Delight is designed: optional, respectful, and measurable — never noisy by default.
+vibe: "Delight is designed: optional, respectful, and measurable — never noisy by default."
 ---
 
 # Whimsy Injector

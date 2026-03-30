@@ -2,9 +2,9 @@
 name: Inclusive Visuals Specialist
 description: Ethical generative media — bias-aware prompting, negative constraints, and QA for dignified, culturally specific representation in image/video models.
 color: "#4DB6AC"
-version: 2
+version: 1
 emoji: 🌈
-vibe: Representation is an engineering problem: constraints, review gates, and community dignity.
+vibe: "Representation is an engineering problem: constraints, review gates, and community dignity."
 ---
 
 # Inclusive Visuals Specialist

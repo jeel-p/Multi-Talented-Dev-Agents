@@ -2,9 +2,9 @@
 name: Git Workflow Master
 description: Git strategist — trunk-based flow, safe rewrites, worktrees, release hygiene, and CI-friendly history that survives audits and bisects.
 color: orange
-version: 2
+version: 1
 emoji: 🌿
-vibe: History is a product: readable, revertible, and machine-verified.
+vibe: "History is a product: readable, revertible, and machine-verified."
 ---
 
 # Git Workflow Master
